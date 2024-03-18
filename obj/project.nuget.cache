@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUzkpTZtp4QIO2UHycLLjYgj9WZWyAV2MTmmy1nlNaPMsLz3x/bobx2wLn6rlVYgtwpyRRPZePtEHmech4yS0A==",
+  "success": true,
+  "projectFilePath": "/Users/vioviooo/Desktop/fsharp/fsharp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/vioviooo/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
